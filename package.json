@@ -1,0 +1,37 @@
+{
+  "name": "CosmicBlush",
+  "displayName": "CosmicBlush",
+  "version": "0.0.1",
+  "publisher": "CarolinaForner",
+  "description": "",
+  "author": {
+    "name": "Carolina Forner"
+  },
+  "icon": "colors.jpg",
+  "galleryBanner": {
+    "color": "#C80000",
+    "theme": "dark"
+  },
+  "pricing": "Free",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "keywords": [
+    "vs theme",
+    "CosmicBlush",
+    "cosmicBlush",
+    "pink theme"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "CosmicBlush",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CosmicBlush-color-theme.json"
+      }
+    ]
+  }
+}
